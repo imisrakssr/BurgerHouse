@@ -1,0 +1,145 @@
+@media (max-width: 576px) {
+    h1{
+      font-size: 70px !important;
+    }
+    .b-shadow{
+      width: 70vh;
+    }
+/*********************
+footer section design
+**********************/
+    footer .f-content {
+      height: auto;
+    }
+    footer{
+    margin-top: 450px;
+    padding-bottom: 0;
+    }
+    footer .left-content a img {
+    width: 75%;
+    margin-left: 43px;
+}
+footer .left-content p {
+    width: 80%;
+    margin-left: 50px;   
+}
+.justify-content-end {
+    justify-content: normal !important;
+}
+footer .left-content {
+    margin-bottom: -40px;
+    margin-left: 0;
+}
+footer .right-content .r-content{
+  margin-left: 50px;
+}
+footer .right-content .mt-3{
+  margin-top: 0.5rem !important;
+}
+footer .copyright-icon {
+    flex-direction: column;
+    margin-top: 20px;
+    text-align: center;
+}
+footer .copyright-icon .c-margin {
+    margin-right: 0;
+}
+footer .copyright-icon .copyright {
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+footer .icons{
+  margin-bottom: 10px;
+}
+/*********************
+header section design
+**********************/
+header .ms-auto {
+  margin-left: 0 !important;
+  margin-top: 10px;
+}
+header .navbar-collapse {
+  background-color: #ffc657 !important;
+    position: absolute;
+    top: 65px;
+    left: 199px;
+}
+/*********************
+banner section design
+**********************/
+#banner{
+  padding-top: 50px;
+}
+.navbar-toggler {
+    padding: 0.15rem 0.25rem;
+}
+#banner .banner-content span {
+    margin-bottom: 35px;
+}
+#banner .banner-content {
+    height: 65vh;
+}
+#banner .b-img{
+  margin-top: -140px;
+}
+/*********************
+advertise section design
+**********************/
+#advertise .ad-image{
+  margin-bottom: 20px;
+}
+ .mb-4 {
+    margin-bottom: 0.7rem!important;
+}
+#advertise .ad-design h6 {
+    font-size: 35px !important;
+}
+/*********************
+category section design
+**********************/
+#category .responsive-mb{
+  margin-bottom: 50px;
+}
+#category .img-fluid {
+    max-width: 90%;
+    height: auto;
+}
+/*********************
+event section design
+**********************/
+#event .owl-dots {
+    margin-top: 20px;
+    position: unset;
+    bottom: 0px;
+    left: 0px;
+}
+#event .slider-box{
+  text-align: center;
+}
+/*********************
+table section design
+**********************/
+#table{
+  height: 30vh;
+}
+#table h1 {
+    font-size: 40px !important;
+}
+#table form input {
+  padding-right: 0px;
+  margin-bottom: 10px;
+}
+#table form button {
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+}
