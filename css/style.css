@@ -40,6 +40,7 @@ advertise section design
 #advertise .ad-content a h6:hover{color: #3d2514 !important; transition: 0.5s;}
 #advertise .ad-design p{font-family: 'Bebas Neue', cursive;	}
 #advertise .ad-design h6{font-family: 'Bebas Neue', cursive;line-height: 0.9;top: 50px;}
+#advertise .ad-m{margin-left: -11px;}
 #advertise .b3{margin-top: 7px;}
 /*********************
 category section design
