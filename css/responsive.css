@@ -92,7 +92,7 @@ advertise section design
  .mb-4 {
     margin-bottom: 0.7rem!important;
 }
-#advertise .ad-design h6 {
+#advertise h6 {
     font-size: 35px !important;
 }
 /*********************
@@ -132,14 +132,54 @@ table section design
 }
 #table form button {
     font-size: 15px;
+}  
 }
-
-
-
-
-
-
-
+@media (min-width: 768px) and (max-width: 1024px) {
+  #banner .banner-content {
+    height: 63vh !important;
+}
+header .navbar-collapse {
+  background-color: #ffc657 !important;
+    position: absolute;
+    top: 95px;
+    left: 226px;
+}
+#banner {
+    height: 50vh;
+}
+#advertise  h6 {
+    font-size: 30px !important;
+}
+#event .slider-box{
+  text-align: center;
+}
+#event .owl-dots {
+    margin-top: 20px;
+    position: unset;
+    bottom: 0px;
+    left: 0px;
+}
+#event .owl-carousel .owl-item img {
+    margin-top: 35%;
+}
+#table {
+    height: 55vh;
+}
+#table form button{
+  margin-top: 20px;
+}
+footer .justify-content-end {
+    justify-content: unset !important;
+}
+footer .copyright-icon .c-margin {
+    margin-right: 10%;
+}
+footer .left-content p {
+    margin-top: -20px;
+}
+footer .copyright-icon {
+    margin-top: -50px;
+}
 
 
 }
